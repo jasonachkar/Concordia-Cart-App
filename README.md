@@ -1,4 +1,4 @@
-# Comp354Project
+# Concordia Cart App
 #### How to Run:
 ## Preffered IDE: Eclipse Enterprise Edition
 This project must be ran on a Tomcat Server Version 8 or after.
