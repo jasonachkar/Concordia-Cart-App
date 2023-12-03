@@ -1,11 +1,11 @@
 # Concordia Cart App
 #### How to Run:
 
-NOTE: Preffered IDE: Eclipse Enterprise Edition
+  NOTE: Preffered IDE is Eclipse Enterprise Edition
 
-This project must be ran on a Tomcat Server Version 8 or after.
+  This project must be ran on a Tomcat Server Version 8 or after.
 
-You must have maven set up.
+  You must have maven set up.
 
   1. Once you import the code onto ur Eclipse workspace. 
 
@@ -19,7 +19,7 @@ You must have maven set up.
 
   6. If you don't have Tomcat server installed don't worry when adding the server onto ur IDE.
 
-7.Eclipse has the option to download it from their IDE.
+  7. Eclipse has the option to download it from their IDE.
 
 NOTE: BEFORE RUNNING THE PROJECT GO TO APPLICATION.PROPERTIES FILE IN SRC AND CHANGE THE SQL USERNAME AND PASSWORD TO CONFORM WITH 
 YOUR SQL WORKBENCH USERNAME AND PASSWORD. THEN RUN THESE FOLLOWING COMMANDS IN A SEPERATE QUERY TAB.
