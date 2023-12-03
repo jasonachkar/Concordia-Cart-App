@@ -4,12 +4,21 @@
 This project must be ran on a Tomcat Server Version 8 or after.
 
 You must have maven set up.
-Once you import the code onto ur Eclipse workspace. Right-Click on the file and go to Maven -> Maven Build -> In the Goals section type -> clean install.
+
+Once you import the code onto ur Eclipse workspace. 
+
+Right-Click on the file and go to Maven -> Maven Build -> In the Goals section type -> clean install.
+
 Then click apply.
+
 Then Right-Click again on your project.
+
 Choose Run-as -> Run on Server and choose the Tomcat server you like to use.
+
 If you don't have Tomcat server installed don't worry when adding the server onto ur IDE.
+
 Eclipse has the option to download it from their IDE.
+
 NOTE: BEFORE RUNNING THE PROJECT GO TO APPLICATION.PROPERTIES FILE IN SRC AND CHANGE THE SQL USERNAME AND PASSWORD TO CONFORM WITH 
 YOUR SQL WORKBENCH USERNAME AND PASSWORD. THEN RUN THESE FOLLOWING COMMANDS IN A SEPERATE QUERY TAB.
 
