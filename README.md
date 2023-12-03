@@ -5,17 +5,17 @@ This project must be ran on a Tomcat Server Version 8 or after.
 
 You must have maven set up.
 
-1.Once you import the code onto ur Eclipse workspace. 
+  1. Once you import the code onto ur Eclipse workspace. 
 
-2.Right-Click on the file and go to Maven -> Maven Build -> In the Goals section type -> clean install.
+  2. Right-Click on the file and go to Maven -> Maven Build -> In the Goals section type -> clean install.
 
-3.Then click apply.
+  3. Then click apply.
 
-4.Then Right-Click again on your project.
+  4. Then Right-Click again on your project.
 
-5.Choose Run-as -> Run on Server and choose the Tomcat server you like to use.
+  5. Choose Run-as -> Run on Server and choose the Tomcat server you like to use.
 
-6.If you don't have Tomcat server installed don't worry when adding the server onto ur IDE.
+  6. If you don't have Tomcat server installed don't worry when adding the server onto ur IDE.
 
 7.Eclipse has the option to download it from their IDE.
 
