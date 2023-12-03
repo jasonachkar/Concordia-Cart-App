@@ -2,6 +2,7 @@
 #### How to Run:
 ## Preffered IDE: Eclipse Enterprise Edition
 This project must be ran on a Tomcat Server Version 8 or after.
+
 You must have maven set up.
 Once you import the code onto ur Eclipse workspace. Right-Click on the file and go to Maven -> Maven Build -> In the Goals section type -> clean install.
 Then click apply.
